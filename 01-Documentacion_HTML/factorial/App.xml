@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>   Skip navigation links</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Package</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Class</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Tree</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Index</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Help</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Summary:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Nested</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Field</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constr</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Detail:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Field</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constr</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Summary: </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Nested | </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Field | </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constr | </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Detail: </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Field | </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constr | </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>SEARCH</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Package factorial</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Class App</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>java.lang.Objectfactorial.App</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>public class Appextends Object</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Clase principal para el cálculo de factoriales. Proporciona métodos para calcular factoriales de números enteros no negativos y demostrar su uso mediante ejemplos prácticos. </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>El factorial de un número n (representado como n!) es el producto de todos los números enteros positivos desde 1 hasta n.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Ejemplos:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>5! = 5 × 4 × 3 × 2 × 1 = 120</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>0! = 1 (por definición matemática)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Since:2025See Also:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Factorial en Wikipedia</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructor Summary</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructors</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructor</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Description</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>App()</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructor por defecto de la clase App.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method Summary</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>All MethodsStatic MethodsConcrete Methods</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Modifier and Type</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Description</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>static long</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>factorial(int n)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Calcula el factorial de un número entero positivo.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>static void</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>main(String[] args)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Método principal que demuestra el uso de la función factorial.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Methods inherited from class java.lang.Object</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>equals, getClass, hashCode, notify, notifyAll, toString, wait, wait, wait</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructor Details</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>App</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>public App()</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Constructor por defecto de la clase App. Inicializa una nueva instancia de la calculadora de factoriales.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Method Details</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>factorial</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>public static long factorial(int n)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Calcula el factorial de un número entero positivo. </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Descripción:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Esta función calcula el producto de todos los números enteros positivos desde 1 hasta el número proporcionado. El factorial de un número n se representa como n! y se define como n! = n × (n-1) × (n-2) × ... × 1.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Casos especiales:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>0! = 1 (por definición matemática)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>No definido para números negativos</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Ejemplo de uso básico:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>long resultado = factorial(5);  // Retorna 120 long casoEspecial = factorial(0); // Retorna 1 </JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Manejo de errores:</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Parameters:n - Número entero positivo del cual se calculará el factorial. Debe ser un valor entre 0 y 20 inclusive para evitar overflow.Returns:long El factorial del número proporcionado. Para n=0 retorna 1.Throws:IllegalArgumentException - Si el número es negativo. El mensaje de error indica que el número debe ser positivo.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser./>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>main</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>public static void main(String[] args)</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+	<Sheet1>
+		<JavaScriptisdisabledonyourbrowser.>Método principal que demuestra el uso de la función factorial. Ejecuta ejemplos de cálculo de factorial y muestra los resultados.</JavaScriptisdisabledonyourbrowser.>
+	</Sheet1>
+</root>
